@@ -1,4 +1,4 @@
-# Mae Chan Flood Atlas
+# Mae Chan Flood Marks
 
 เว็บแผนที่ภาษาไทยสำหรับข้อมูลน้ำท่วมแม่จัน ปี 2567 ใช้ Vite + JavaScript และ Longdo Map API 3
 
