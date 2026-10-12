@@ -1,0 +1,1 @@
+{"name":"maechan-flood-map","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"vite --host 127.0.0.1","build":"vite build","preview":"vite preview --host 127.0.0.1","data":"python3 scripts/prepare_data.py"},"devDependencies":{"vite":"^7.1.0"}}
